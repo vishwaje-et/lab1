@@ -1,3 +1,6 @@
+![image](https://github.com/vishwaje-et/lab1/assets/110335323/89774b0e-3d93-4968-b7cb-c7f4bedb2812)
+
+
 ![image](https://github.com/vishwaje-et/lab1/assets/110335323/02a26121-aad5-41a1-921c-0e724ff0340c)Introduction:
 Principal Component Analysis (PCA) is a powerful technique used for dimensionality reduction by transforming highdimensional data into a lower-dimensional space while retaining as much variance as possible.
 Objective:
